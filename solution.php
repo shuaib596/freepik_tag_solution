@@ -4,7 +4,7 @@
 
 <?php 
 
-$str = "Banner banner Pattern Poster Label Cover Texture Paper Beauty Typography Layout Packaging Luxury Art Text Advertising Sign Silver Makeup Elegant Golden Branding Product Clean Symbol Skin Brand Care Healthcare Cream Elements Container Solution Shiny Facial Skin care Collection Commercial Hygiene Treatment";
+$str = "nature day environment day world day environmental protection international day world environment environment flora and fauna save planet fauna save environment save the world environment ecology save nature world illustration eco world ecology event illustrations nature illustration celebration june awareness international nature world nature flowers day gradient global";
 
 $lowerCaseString = strtolower($str);
 
